@@ -4,3 +4,4 @@ sudo apt upgrade
 sudo apt install git
 mkdir -p ~/Projects
 cd ~/Projects
+git clone https://github.com/Akinava/PyCrypto.git
